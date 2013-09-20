@@ -1,0 +1,5 @@
+output
+.DS_Store
+*.pid
+*.py[cod]
+.sass-cache
